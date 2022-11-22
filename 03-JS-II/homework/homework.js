@@ -232,12 +232,11 @@ function doWhile(numero) {
   let a = numero;
   let i = 0; 
   do {
-    i =+ 1;
-    a =+ 5;
+    i = i + 1;
+    a = a + 5;
   } 
-  while (i < 8); 
-  return a;
-   
+  while (i < 8);  
+   return a; 
 }
 
 
