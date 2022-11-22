@@ -1,0 +1,16 @@
+Los ciclos for o loops son una herramienta de programacion que nos permite recorrer una lista
+como si tubieras una lista de compras, con ella vamos a poder recorrer cada parte de nuestra lista,
+y saber donde esta cada elemento que tenga nuestra lista e incluso repetirlos si los necesitaramos.
+
+Los operadores logicos basicamente nos sirve para comparar entre si algo es verda o falso.
+con && doble Y en español o AND en ingles nos dice si ambas variables son verdad, hay que tener
+en cuenta que en este caso esta expresion evalua a true (verdadero) si las dos variables son verdad
+un ejemplo muy practico seria decir que  (true && true) es verdadero ya que true es igual a true ambas son verdad.
+si le digo (false && true) es falso porque no son iguales y si le digo (false && false) es true
+porque las dos son falsas.
+
+El || OR es similar solo que en este caso con que alguna sea verdad devuelve true un ejemplo
+(false || true) es verdadero porque una se cumple,
+
+El operador NOT de negacion es basicamente para negar todo !(true && true) esto aunque es verdad
+lo transforma a falso.
